@@ -1,0 +1,19 @@
+body {
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    letter-spacing: 6px;
+    color: #955E42;
+    text-align: center;
+    padding-top: 35px;
+    background-color: #394032;
+}
+
+
+#zegar{
+  background-color: #553739;
+  padding: 50px;
+  margin-right: 350px;
+  margin-left: 350px;
+  margin-top: 180px;
+  border-radius: 25px;
+}
